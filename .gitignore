@@ -1,0 +1,14 @@
+# Ignore all JSON files (like GCP credentials)
+*.json
+
+# Ignore environment files
+.env
+
+# Ignore Python cache or build files
+__pycache__/
+*.pyc
+build/
+dist/
+
+# Ignore VS Code settings (optional)
+.vscode/
